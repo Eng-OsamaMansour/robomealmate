@@ -53,6 +53,12 @@ RoboMealMate is a humanoid-inspired AI-powered robot designed to autonomously as
 - **Communication:** Serial + ROS topics/services
 
 ---
+## 👨‍💻 Author
+
+- **Osama Mansour**  
+  🎓 Computer Engineer — An-Najah National University (Class of May 2025)  
+  📧 Email: osamanote2016@gmail.com  
+  🧠 GitHub: [@Eng-OsamaMansour](https://github.com/Eng-OsamaMansour)
 
 
 
