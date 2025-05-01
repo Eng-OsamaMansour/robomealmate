@@ -54,5 +54,5 @@ RoboMealMate is a humanoid-inspired AI-powered robot designed to autonomously as
 
 ---
 
-## 🔄 System Architecture
+
 
